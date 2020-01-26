@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95bbe828-c4e8-47fd-b60a-87f8f6edf007" name="Default Changelist" comment="" />
+    <list default="true" id="95bbe828-c4e8-47fd-b60a-87f8f6edf007" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clone_Graph/Clone_Graph_133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clone_Graph/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Intervals/Merge_Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Merge_Intervals/Q57_Insert_Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q322_Coin_Change/Q322_Coin_Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q53_Maximum_Subarry/Q53_Maximum_Subarry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Q572_SubtreeofAnotherTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubTree_of_Another_tree_572/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/SwapAdjacentInLR_String/Swap_Adjacent_in_LR_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/SwapAdjacentInLR_String/Swap_Adjacent_in_LR_String.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,46 +23,51 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Algorithms$Q322_Coin_Change.ic" NAME="Q322_Coin_Change Coverage Results" MODIFIED="1579977765214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Q322_Coin_Change.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="158644605">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="6" />
-          <entry key="project.open.time.5" value="7" />
-          <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.open.time.5" value="13" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="29" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="41" />
           <entry key="js" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="29" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="41" />
           <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="4" />
-          <entry key="java" value="14927" />
+          <entry key="dummy" value="9" />
+          <entry key="java" value="18398" />
           <entry key="js" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14927" />
+          <entry key="JAVA" value="18398" />
           <entry key="JavaScript" value="34" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -56,19 +75,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Partition_List.java">
+        <entry file="file://$PROJECT_DIR$/src/Q53_Maximum_Subarry/Q53_Maximum_Subarry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="900">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/OddEvenLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="513">
+              <caret line="49" column="41" lean-forward="true" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -77,22 +100,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/ReverseLinkedListII.java">
+        <entry file="file://$PROJECT_DIR$/Algorithms.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CallByValueExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="80">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SwapAdjacentInLR_String/Swap_Adjacent_in_LR_String.java">
+        <entry file="file://$PROJECT_DIR$/src/Q322_Coin_Change/Q322_Coin_Change.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="691">
+              <caret line="61" column="10" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="61" selection-end-column="10" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -101,22 +126,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Reverse_Linked_List/Reverse_Linked_List.java">
+        <entry file="file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="45" column="9" lean-forward="true" selection-end-line="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Add_Two_Numbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="860">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="160">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -136,11 +149,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Remove_Duplicates_from_Sorted_ListII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
+            <state relative-caret-position="80">
               <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding>
                 <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,6 +186,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -215,6 +231,17 @@
         <option value="$PROJECT_DIR$/src/ReverseLinkedListII/Remove_Duplicates_from_Sorted_ListII.java" />
         <option value="$PROJECT_DIR$/src/ReverseLinkedListII/Reverse_Linked_List/Reverse_Linked_List.java" />
         <option value="$PROJECT_DIR$/src/SwapAdjacentInLR_String/Swap_Adjacent_in_LR_String.java" />
+        <option value="$PROJECT_DIR$/src/Merge_Intervals/Merge_Intervals.java" />
+        <option value="$PROJECT_DIR$/src/Clone_Graph/Node.java" />
+        <option value="$PROJECT_DIR$/src/Clone_Graph/Clone_Graph_133.java" />
+        <option value="$PROJECT_DIR$/src/Merge_Intervals/Insert_Interval_57.java" />
+        <option value="$PROJECT_DIR$/src/Merge_Intervals/Q57_Insert_Interval.java" />
+        <option value="$PROJECT_DIR$/src/SubTree_of_Another_tree_572/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Q572_SubtreeofAnotherTree.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/Q53_Maximum_Subarry/Q53_Maximum_Subarry.java" />
+        <option value="$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java" />
+        <option value="$PROJECT_DIR$/src/Q322_Coin_Change/Q322_Coin_Change.java" />
       </list>
     </option>
   </component>
@@ -225,9 +252,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="335" />
+    <option name="x" value="160" />
     <option name="y" value="40" />
-    <option name="width" value="2300" />
+    <option name="width" value="2359" />
     <option name="height" value="1284" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -244,6 +271,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -266,32 +294,13 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Max_Points_on_a_Line" type="462c0819:PsiDirectoryNode" />
+              <item name="Q70_Climbing_Stairs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ReverseLinkedListII" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ReverseLinkedListII" type="462c0819:PsiDirectoryNode" />
-              <item name="Reverse_Linked_List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SwapAdjacentInLR_String" type="462c0819:PsiDirectoryNode" />
+              <item name="Q322_Coin_Change" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -303,7 +312,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576776172557" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579977949685" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
@@ -320,23 +329,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Swap_Adjacent_in_LR_String">
+  <component name="RunManager" selected="Application.Q322_Coin_Change">
     <configuration name="AddTwoNumber" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AddTwoNumber.AddTwoNumber" />
       <module name="Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Add_Two_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseLinkedListII.Add_Two_Numbers" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReverseLinkedListII.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -390,12 +386,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxPointOnALine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Max_Points_on_a_Line.MaxPointOnALine" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q322_Coin_Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q322_Coin_Change.Q322_Coin_Change" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Max_Points_on_a_Line.*" />
+          <option name="PATTERN" value="Q322_Coin_Change.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,12 +406,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseLinkedListII.OddEvenLinkedList" />
+    <configuration name="Q572_SubtreeofAnotherTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubTree_of_Another_tree_572.Q572_SubtreeofAnotherTree" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReverseLinkedListII.*" />
+          <option name="PATTERN" value="SubTree_of_Another_tree_572.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -416,12 +419,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedListII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseLinkedListII.ReverseLinkedListII" />
+    <configuration name="Q70_Climbing_Stairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q70_Climbing_Stairs.Q70_Climbing_Stairs" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReverseLinkedListII.*" />
+          <option name="PATTERN" value="Q70_Climbing_Stairs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -429,15 +432,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swap_Adjacent_in_LR_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwapAdjacentInLR_String.Swap_Adjacent_in_LR_String" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SwapAdjacentInLR_String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -483,19 +480,19 @@
       <item itemvalue="Application.ThreeSumCloset" />
       <item itemvalue="Application.InsertionSort" />
       <item itemvalue="Application.AddTwoNumber" />
-      <item itemvalue="Application.MaxPointOnALine" />
-      <item itemvalue="Application.ReverseLinkedListII" />
-      <item itemvalue="Application.OddEvenLinkedList" />
-      <item itemvalue="Application.Add_Two_Numbers" />
-      <item itemvalue="Application.Swap_Adjacent_in_LR_String" />
+      <item itemvalue="Application.Q572_SubtreeofAnotherTree" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Q70_Climbing_Stairs" />
+      <item itemvalue="Application.Q322_Coin_Change" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Swap_Adjacent_in_LR_String" />
-        <item itemvalue="Application.Add_Two_Numbers" />
-        <item itemvalue="Application.OddEvenLinkedList" />
-        <item itemvalue="Application.ReverseLinkedListII" />
-        <item itemvalue="Application.MaxPointOnALine" />
+        <item itemvalue="Application.Q322_Coin_Change" />
+        <item itemvalue="Application.Q70_Climbing_Stairs" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Q572_SubtreeofAnotherTree" />
       </list>
     </recent_temporary>
   </component>
@@ -529,17 +526,24 @@
       <workItem from="1575341651217" duration="3530000" />
       <workItem from="1575413230896" duration="666000" />
       <workItem from="1575495182222" duration="52718000" />
-      <workItem from="1576711920012" duration="3512000" />
+      <workItem from="1576711920012" duration="6824000" />
+      <workItem from="1577493349624" duration="1160000" />
+      <workItem from="1578109640839" duration="2282000" />
+      <workItem from="1578349100572" duration="1145000" />
+      <workItem from="1578352048555" duration="9899000" />
+      <workItem from="1578827718505" duration="3000" />
+      <workItem from="1579116243913" duration="4123000" />
+      <workItem from="1579971159376" duration="5648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89085000" />
+    <option name="totallyTimeSpent" value="116657000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="335" y="40" width="2300" height="1284" extended-state="0" />
+    <frame x="160" y="40" width="2359" height="1284" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28077945" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2895986" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -548,16 +552,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329661" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27181208" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2911074" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3842282" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.329698" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329698" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32802013" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32973674" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -662,6 +667,36 @@
           <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Q572_SubtreeofAnotherTree.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q322_Coin_Change/Q322_Coin_Change.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/FourSum/FourSum2.java</url>
           <line>7</line>
@@ -710,6 +745,36 @@
           </properties>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Q572_SubtreeofAnotherTree.java</url>
+          <line>4</line>
+          <properties class="SubTree_of_Another_tree_572.Q572_SubtreeofAnotherTree" method="isSubtree">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java</url>
+          <line>49</line>
+          <properties class="Q70_Climbing_Stairs.Q70_Climbing_Stairs" method="combine">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Q322_Coin_Change/Q322_Coin_Change.java</url>
+          <line>29</line>
+          <properties class="Q322_Coin_Change.Q322_Coin_Change" method="helper">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test.java</url>
+          <line>3</line>
+          <properties field="flag" class="Test" />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -752,21 +817,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/eeSum.js" />
     <entry file="file://$PROJECT_DIR$/src/FourSum/FourSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CallByValueExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -856,6 +911,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/ReverseLinkedListII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwapAdjacentInLR_String/Swap_Adjacent_in_LR_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clone_Graph/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Merge_Intervals/Merge_Intervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="45" column="117" selection-start-line="45" selection-start-column="117" selection-end-line="45" selection-end-column="117" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clone_Graph/Clone_Graph_133.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="87" column="31" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2420">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Reverse_Linked_List/Reverse_Linked_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" column="9" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Add_Two_Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="860">
@@ -863,6 +978,58 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Merge_Intervals/Q57_Insert_Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Q572_SubtreeofAnotherTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q53_Maximum_Subarry/Q53_Maximum_Subarry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CallByValueExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -876,38 +1043,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Remove_Duplicates_from_Sorted_ListII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/ReverseLinkedListII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Remove_Duplicates_from_Sorted_ListII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Reverse_Linked_List/Reverse_Linked_List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="45" column="9" lean-forward="true" selection-end-line="64" />
         </state>
       </provider>
     </entry>
@@ -918,10 +1068,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwapAdjacentInLR_String/Swap_Adjacent_in_LR_String.java">
+    <entry file="file://$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="513">
+          <caret line="49" column="41" lean-forward="true" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q322_Coin_Change/Q322_Coin_Change.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="61" column="10" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="61" selection-end-column="10" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
