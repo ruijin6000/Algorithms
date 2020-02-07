@@ -86,3 +86,27 @@ public class Q70_Climbing_Stairs {
 
     }
 }
+
+
+/**  Solution
+ public int climbStairs(int n) {
+ int memo[] = new int[n + 1];
+ return climb_Stairs( n, memo);
+ }
+
+ public int climb_Stairs(int n, int memo[]) {
+ if(n==0 || n==1) {
+ return 1;
+ }
+
+ if (n<0 ) {
+ return 0;
+ }
+
+ if (memo[n]>0) {
+ return memo[n];
+ }
+ memo[n] = climb_Stairs(n-1, memo) + climb_Stairs(n-2, memo);
+ return memo[n];
+ }
+ **/

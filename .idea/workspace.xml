@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95bbe828-c4e8-47fd-b60a-87f8f6edf007" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clone_Graph/Clone_Graph_133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Clone_Graph/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Merge_Intervals/Merge_Intervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Merge_Intervals/Q57_Insert_Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q322_Coin_Change/Q322_Coin_Change.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q53_Maximum_Subarry/Q53_Maximum_Subarry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Q572_SubtreeofAnotherTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubTree_of_Another_tree_572/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q149_Max_Points_on_a_Line/Version2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q31_Next_Premutation/Q31_NextPeremutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Q34_Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q394_Decode_String/Decode_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Version2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/SwapAdjacentInLR_String/Swap_Adjacent_in_LR_String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/SwapAdjacentInLR_String/Swap_Adjacent_in_LR_String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Max_Points_on_a_Line/MaxPointOnALine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Max_Points_on_a_Line/MaxPointOnALine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q149_Max_Points_on_a_Line/MaxPointOnALine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Q938_Minimum_Cost_For_Tickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Q938_Minimum_Cost_For_Tickets.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,45 +25,51 @@
     <SUITE FILE_PATH="coverage/Algorithms$Q322_Coin_Change.ic" NAME="Q322_Coin_Change Coverage Results" MODIFIED="1579977765214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Q322_Coin_Change.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Algorithms$Decode_String.ic" NAME="Decode_String Coverage Results" MODIFIED="1581102290129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Q394_Decode_String.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="277" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="158644605">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="6" />
-          <entry key="project.open.time.5" value="13" />
+          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.5" value="15" />
           <entry key="project.open.time.6" value="4" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="2" />
-          <entry key="java" value="41" />
+          <entry key="iml" value="3" />
+          <entry key="java" value="54" />
           <entry key="js" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="41" />
+          <entry key="IDEA_MODULE" value="3" />
+          <entry key="JAVA" value="54" />
           <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="18398" />
+          <entry key="java" value="21949" />
           <entry key="js" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18398" />
+          <entry key="JAVA" value="21949" />
           <entry key="JavaScript" value="34" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
@@ -75,26 +79,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q53_Maximum_Subarry/Q53_Maximum_Subarry.java">
+        <entry file="file://$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Version2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+            <state relative-caret-position="720">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java">
+        <entry file="file://$PROJECT_DIR$/src/Q149_Max_Points_on_a_Line/MaxPointOnALine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="49" column="41" lean-forward="true" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+            <state relative-caret-position="320">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q149_Max_Points_on_a_Line/Version2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Q34_Index.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q31_Next_Premutation/Q31_NextPeremutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Q394_Decode_String/Decode_String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -105,22 +151,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CallByValueExample.java">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Q322_Coin_Change/Q322_Coin_Change.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="691">
-              <caret line="61" column="10" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="61" selection-end-column="10" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -135,44 +169,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Add_Two_NumbersII.java">
+        <entry file="file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Node.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Remove_Duplicates_from_Sorted_ListII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Max_Points_on_a_Line/MaxPointOnALine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="860">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="520">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -193,13 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Two_Sum.java" />
-        <option value="$PROJECT_DIR$/src/Functions/AddTwoNumber.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/AddTwoNumber.java" />
-        <option value="$PROJECT_DIR$/src/AddTwoNumber/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/AddTwoNumber/AddTwoNumber.java" />
-        <option value="$PROJECT_DIR$/src/InsertionSort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/Sort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/Sort/Sort.java" />
         <option value="$PROJECT_DIR$/src/CallByValueExample.java" />
@@ -220,7 +213,6 @@
         <option value="$PROJECT_DIR$/src/GroupAnagrams/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/ThreeSum/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/numberOfBoomerangs/points.java" />
-        <option value="$PROJECT_DIR$/src/Max_Points_on_a_Line/MaxPointOnALine.java" />
         <option value="$PROJECT_DIR$/src/ContainsDuplicateIII/Contains_Duplicate_III.java" />
         <option value="$PROJECT_DIR$/src/ReverseLinkedListII/ListNode.java" />
         <option value="$PROJECT_DIR$/src/ReverseLinkedListII/Partition_List.java" />
@@ -238,10 +230,20 @@
         <option value="$PROJECT_DIR$/src/Merge_Intervals/Q57_Insert_Interval.java" />
         <option value="$PROJECT_DIR$/src/SubTree_of_Another_tree_572/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Q572_SubtreeofAnotherTree.java" />
-        <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/Q53_Maximum_Subarry/Q53_Maximum_Subarry.java" />
-        <option value="$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java" />
         <option value="$PROJECT_DIR$/src/Q322_Coin_Change/Q322_Coin_Change.java" />
+        <option value="$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java" />
+        <option value="$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Version2.java" />
+        <option value="$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Q938_Minimum_Cost_For_Tickets.java" />
+        <option value="$PROJECT_DIR$/src/Max_Points_on_a_Line/MaxPointOnALine.java" />
+        <option value="$PROJECT_DIR$/src/Q149_Max_Points_on_a_Line/MaxPointOnALine.java" />
+        <option value="$PROJECT_DIR$/src/Q149_Max_Points_on_a_Line/Version2.java" />
+        <option value="$PROJECT_DIR$/src/Q34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Q34_Index.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/SubTree_of_Another_tree_572/test.java" />
+        <option value="$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Node.java" />
+        <option value="$PROJECT_DIR$/src/Q31_Next_Premutation/Q31_NextPeremutation.java" />
+        <option value="$PROJECT_DIR$/src/Q394_Decode_String/Decode_String.java" />
       </list>
     </option>
   </component>
@@ -252,8 +254,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="160" />
-    <option name="y" value="40" />
+    <option name="x" value="143" />
+    <option name="y" value="52" />
     <option name="width" value="2359" />
     <option name="height" value="1284" />
   </component>
@@ -277,6 +279,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -294,25 +297,18 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Q70_Climbing_Stairs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Q322_Coin_Change" type="462c0819:PsiDirectoryNode" />
+              <item name="test.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579977949685" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581104747704" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
@@ -329,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q322_Coin_Change">
+  <component name="RunManager" selected="Application.Decode_String">
     <configuration name="AddTwoNumber" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="AddTwoNumber.AddTwoNumber" />
       <module name="Algorithms" />
@@ -354,6 +350,19 @@
     <configuration name="Contains_Duplicate_III" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ContainsDuplicateIII.Contains_Duplicate_III" />
       <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Decode_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q394_Decode_String.Decode_String" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q394_Decode_String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -386,19 +395,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q322_Coin_Change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q322_Coin_Change.Q322_Coin_Change" />
+    <configuration name="Q31_NextPeremutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q31_Next_Premutation.Q31_NextPeremutation" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q322_Coin_Change.*" />
+          <option name="PATTERN" value="Q31_Next_Premutation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -406,35 +408,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q572_SubtreeofAnotherTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubTree_of_Another_tree_572.Q572_SubtreeofAnotherTree" />
+    <configuration name="Q938_Minimum_Cost_For_Tickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q938_Minimum_Cost_For_Tickets.Q938_Minimum_Cost_For_Tickets" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SubTree_of_Another_tree_572.*" />
+          <option name="PATTERN" value="Q938_Minimum_Cost_For_Tickets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q70_Climbing_Stairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q70_Climbing_Stairs.Q70_Climbing_Stairs" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q70_Climbing_Stairs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -460,6 +442,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Version2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q149_Max_Points_on_a_Line.Version2" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q149_Max_Points_on_a_Line.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Version2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q938_Minimum_Cost_For_Tickets.Version2" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q938_Minimum_Cost_For_Tickets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="points" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="numberOfBoomerangs.points" />
       <module name="Algorithms" />
@@ -480,19 +488,19 @@
       <item itemvalue="Application.ThreeSumCloset" />
       <item itemvalue="Application.InsertionSort" />
       <item itemvalue="Application.AddTwoNumber" />
-      <item itemvalue="Application.Q572_SubtreeofAnotherTree" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Q70_Climbing_Stairs" />
-      <item itemvalue="Application.Q322_Coin_Change" />
+      <item itemvalue="Application.Q938_Minimum_Cost_For_Tickets" />
+      <item itemvalue="Application.Version2" />
+      <item itemvalue="Application.Version2 (1)" />
+      <item itemvalue="Application.Q31_NextPeremutation" />
+      <item itemvalue="Application.Decode_String" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q322_Coin_Change" />
-        <item itemvalue="Application.Q70_Climbing_Stairs" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Q572_SubtreeofAnotherTree" />
+        <item itemvalue="Application.Decode_String" />
+        <item itemvalue="Application.Q31_NextPeremutation" />
+        <item itemvalue="Application.Version2 (1)" />
+        <item itemvalue="Application.Q938_Minimum_Cost_For_Tickets" />
+        <item itemvalue="Application.Version2" />
       </list>
     </recent_temporary>
   </component>
@@ -534,16 +542,20 @@
       <workItem from="1578827718505" duration="3000" />
       <workItem from="1579116243913" duration="4123000" />
       <workItem from="1579971159376" duration="5648000" />
+      <workItem from="1580016702769" duration="16568000" />
+      <workItem from="1580766034668" duration="4401000" />
+      <workItem from="1581101506966" duration="2990000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116657000" />
+    <option name="totallyTimeSpent" value="140616000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="160" y="40" width="2359" height="1284" extended-state="0" />
+    <frame x="143" y="52" width="2359" height="1284" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2895986" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29736727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -552,7 +564,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329661" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2911074" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2911074" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3842282" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -562,7 +574,6 @@
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.329698" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32802013" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32973674" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -572,6 +583,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32973674" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -697,6 +709,36 @@
           <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Q938_Minimum_Cost_For_Tickets.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Version2.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q149_Max_Points_on_a_Line/Version2.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q31_Next_Premutation/Q31_NextPeremutation.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q394_Decode_String/Decode_String.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/FourSum/FourSum2.java</url>
           <line>7</line>
@@ -769,14 +811,61 @@
           </properties>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/test.java</url>
-          <line>3</line>
-          <properties field="flag" class="Test" />
-          <option name="timeStamp" value="50" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Q938_Minimum_Cost_For_Tickets.java</url>
+          <line>16</line>
+          <properties class="Q938_Minimum_Cost_For_Tickets.Q938_Minimum_Cost_For_Tickets" method="helper">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Version2.java</url>
+          <line>12</line>
+          <properties class="Q938_Minimum_Cost_For_Tickets.Version2" method="mincostTickets">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Version2.java</url>
+          <line>21</line>
+          <properties class="Q938_Minimum_Cost_For_Tickets.Version2" method="dp">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Q149_Max_Points_on_a_Line/Version2.java</url>
+          <line>11</line>
+          <properties class="Q149_Max_Points_on_a_Line.Version2" method="maxPoints">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Q31_Next_Premutation/Q31_NextPeremutation.java</url>
+          <line>21</line>
+          <properties class="Q31_Next_Premutation.Q31_NextPeremutation" method="nextPermutation">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Q394_Decode_String/Decode_String.java</url>
+          <line>6</line>
+          <properties class="Q394_Decode_String.Decode_String" method="decodeString">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="91" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="chars[i]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Two_Sum/Two_Sum.java">
@@ -939,10 +1028,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="45" column="117" selection-start-line="45" selection-start-column="117" selection-end-line="45" selection-end-column="117" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -950,10 +1035,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1320">
           <caret line="87" column="31" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -985,9 +1066,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -998,26 +1076,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" selection-start-line="21" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q53_Maximum_Subarry/Q53_Maximum_Subarry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms.iml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CallByValueExample.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1026,20 +1090,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReverseLinkedListII/Add_Two_NumbersII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1047,10 +1101,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1061,30 +1111,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Max_Points_on_a_Line/MaxPointOnALine.java">
+    <entry file="file://$PROJECT_DIR$/src/Q322_Coin_Change/Q322_Coin_Change.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="900">
+          <caret line="57" column="9" selection-start-line="47" selection-start-column="52" selection-end-line="57" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="49" column="41" lean-forward="true" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+        <state relative-caret-position="1360">
+          <caret line="90" column="13" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q322_Coin_Change/Q322_Coin_Change.java">
+    <entry file="file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Q938_Minimum_Cost_For_Tickets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="61" column="10" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="61" selection-end-column="10" />
+        <state relative-caret-position="860">
+          <caret line="43" selection-start-line="3" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q938_Minimum_Cost_For_Tickets/Version2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q149_Max_Points_on_a_Line/MaxPointOnALine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q149_Max_Points_on_a_Line/Version2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Q34_Index.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q31_Next_Premutation/Q31_NextPeremutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q394_Decode_String/Decode_String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
         </state>
       </provider>
     </entry>

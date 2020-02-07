@@ -1,5 +1,5 @@
-//#149
-package Max_Points_on_a_Line;
+/** 149. Max Points on a Line **/
+package Q149_Max_Points_on_a_Line;
 
 import java.util.*;
 
@@ -56,7 +56,7 @@ public class MaxPointOnALine {
         int[][] points5 = new int[][]{{0,0}, {0, 0}};
 
 
-        System.out.print(temp.maxPoints(points));
+        System.out.print(temp.maxPoints(points5));
 
 
     }
