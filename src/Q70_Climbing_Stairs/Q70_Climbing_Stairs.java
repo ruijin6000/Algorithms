@@ -41,7 +41,7 @@ public class Q70_Climbing_Stairs {
           r=x;
           N = x+y;
       }
-
+     
 
        return sum+1;
     }
@@ -50,7 +50,6 @@ public class Q70_Climbing_Stairs {
        public int combine(int N, int r) {
 
         if (N ==r ){ return 1; }
-
         int temp1= N;
         int temp2= N-r;
         int upper = 1;
