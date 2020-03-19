@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95bbe828-c4e8-47fd-b60a-87f8f6edf007" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Q62_Unique_Paths/Q62_UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q63_Unique_PathsII/Q63_Unique_PathsII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q64MinimumPathSum/Q64MinimumPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q17_LetterCombinationsofaPhoneNumber/Q17_Letter_Combinations_of_a_phone_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/OOB/HondaCity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/OOB/HondaCity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Q70_Climbing_Stairs/Q70_Climbing_Stairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/Q70_Climbing_Stairs/Q70_Climbing_Stairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q70_Climbing_Stairs/Q70_Climbing_Stairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/Q63_Unique_PathsII/Q980_Unique_PathsIII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/Q63_Unique_PathsII/Q980_Unique_PathsIII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Q63_Unique_PathsII/Q980_Unique_PathsIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Q63_Unique_PathsII/Q980_Unique_PathsIII.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,27 +43,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="3" />
-          <entry key="java" value="69" />
+          <entry key="java" value="72" />
           <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="69" />
+          <entry key="JAVA" value="72" />
           <entry key="JavaScript" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="24840" />
+          <entry key="java" value="27064" />
           <entry key="js" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24840" />
+          <entry key="JAVA" value="27064" />
           <entry key="JavaScript" value="39" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
@@ -99,17 +96,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q62_Unique_Paths/Q62_UniquePaths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="82">
               <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Q63_Unique_PathsII/Q63_Unique_PathsII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="82">
+              <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Q63_Unique_PathsII/Q980_Unique_PathsIII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="76" column="49" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Q17_LetterCombinationsofaPhoneNumber/Q17_Letter_Combinations_of_a_phone_Number.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="760">
+              <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -141,33 +162,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SubTree_of_Another_tree_572/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -184,9 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Anagrams/Anagrams.java" />
-        <option value="$PROJECT_DIR$/src/GroupAnagrams.java" />
-        <option value="$PROJECT_DIR$/src/ThreeSumCloset/ThreeSumCloset.java" />
         <option value="$PROJECT_DIR$/src/GroupAnagrams/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/ThreeSum/ThreeSum.java" />
         <option value="$PROJECT_DIR$/src/numberOfBoomerangs/points.java" />
@@ -235,6 +226,9 @@
         <option value="$PROJECT_DIR$/src/Q64MinimumPathSum/Q64MinimumPathSum.java" />
         <option value="$PROJECT_DIR$/src/Q62_Unique_Paths/Q62_UniquePaths.java" />
         <option value="$PROJECT_DIR$/src/Q63_Unique_PathsII/Q63_Unique_PathsII.java" />
+        <option value="$PROJECT_DIR$/src/temp.java" />
+        <option value="$PROJECT_DIR$/src/Q17_LetterCombinationsofaPhoneNumber/Q17_Letter_Combinations_of_a_phone_Number.java" />
+        <option value="$PROJECT_DIR$/src/Q63_Unique_PathsII/Q980_Unique_PathsIII.java" />
       </list>
     </option>
   </component>
@@ -245,10 +239,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="468" />
-    <option name="y" value="68" />
-    <option name="width" value="2004" />
-    <option name="height" value="1238" />
+    <option name="x" value="409" />
+    <option name="y" value="23" />
+    <option name="width" value="1810" />
+    <option name="height" value="1247" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -286,13 +280,19 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Q17_LetterCombinationsofaPhoneNumber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Q62_Unique_Paths" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Q64MinimumPathSum" type="462c0819:PsiDirectoryNode" />
+              <item name="Q63_Unique_PathsII" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,7 +305,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584548975366" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584644169764" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
@@ -451,21 +451,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="compass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="compass.compass" />
+    <configuration name="points" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="numberOfBoomerangs.points" />
       <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="compass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="points" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="numberOfBoomerangs.points" />
+    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temp" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -484,19 +478,19 @@
       <item itemvalue="Application.ThreeSumCloset" />
       <item itemvalue="Application.InsertionSort" />
       <item itemvalue="Application.AddTwoNumber" />
-      <item itemvalue="Application.compass" />
       <item itemvalue="Application.HondaCity" />
       <item itemvalue="Application.Q64MinimumPathSum" />
       <item itemvalue="Application.Q62_UniquePaths" />
       <item itemvalue="Application.Q980_Unique_PathsIII" />
+      <item itemvalue="Application.temp" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Q980_Unique_PathsIII" />
+        <item itemvalue="Application.temp" />
         <item itemvalue="Application.Q62_UniquePaths" />
         <item itemvalue="Application.Q64MinimumPathSum" />
         <item itemvalue="Application.HondaCity" />
-        <item itemvalue="Application.compass" />
       </list>
     </recent_temporary>
   </component>
@@ -546,18 +540,18 @@
       <workItem from="1582222488440" duration="161000" />
       <workItem from="1582577056822" duration="859000" />
       <workItem from="1584489925573" duration="185000" />
-      <workItem from="1584492739233" duration="4101000" />
+      <workItem from="1584492739233" duration="16788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154027000" />
+    <option name="totallyTimeSpent" value="166714000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="468" y="68" width="2004" height="1238" extended-state="0" />
+    <frame x="409" y="23" width="1810" height="1247" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13608563" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1510181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -565,15 +559,15 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329661" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2495637" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38394415" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36623377" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.38354978" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.089207046" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.23463203" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32802013" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -759,6 +753,12 @@
           <properties />
           <option name="timeStamp" value="99" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Q63_Unique_PathsII/Q980_Unique_PathsIII.java</url>
+          <line>125</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/FourSum/FourSum2.java</url>
           <line>7</line>
@@ -887,36 +887,23 @@
           </properties>
           <option name="timeStamp" value="98" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Q63_Unique_PathsII/Q980_Unique_PathsIII.java</url>
+          <line>80</line>
+          <properties class="Q63_Unique_PathsII.Q980_Unique_PathsIII" method="helper">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="chars[i]" language="JAVA" />
+        <watch expression="memo" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Anagrams/Anagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GroupAnagrams/GroupAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1206">
-          <caret line="71" column="5" selection-start-line="56" selection-start-column="3" selection-end-line="71" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/numberOfBoomerangs/points.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -1263,17 +1250,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q63_Unique_PathsII/Q63_Unique_PathsII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Q62_Unique_Paths/Q62_UniquePaths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="82">
           <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Q63_Unique_PathsII/Q63_Unique_PathsII.java">
+    <entry file="file://$PROJECT_DIR$/src/temp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="517">
+          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="77" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q17_LetterCombinationsofaPhoneNumber/Q17_Letter_Combinations_of_a_phone_Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Q63_Unique_PathsII/Q980_Unique_PathsIII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="76" column="49" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
