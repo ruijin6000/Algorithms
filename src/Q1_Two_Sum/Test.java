@@ -1,4 +1,6 @@
-package Two_Sum;
+package Q1_Two_Sum;
+
+import Q1_Two_Sum.TwoSum;
 
 public class Test {
 
